@@ -57,7 +57,7 @@ Dalam menyusun laporan ini, saya menggunakan Google Gemini sebagai asisten. Gemi
 
 ## 10. Bukti Git
 *   **Tautan Repositori:** `https://github.com/awababdulkhodir-cell/basisdata-25430063`
-*   **Hash Commit Terakhir:** `MASUKKAN_HASH_COMMIT_ANDA_DI_SINI`
+*   **Hash Commit Terakhir:** `c74d576`
 
 ## Checklist
 - [x] Berkas wajib: `p02_kebutuhan_data_kopma_063.md` dan `p02_kebutuhan_data_063.md`
