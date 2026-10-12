@@ -4,7 +4,7 @@
 ## Identitas Mahasiswa
 * **Nama**: Awab Abdul Khodir
 * **NIM**: 25430063
-* **Kelas / Kelompok**: Basis Data (NIM Berakhiran 62)
+* **Kelas / Kelompok**: Basis Data (NIM Berakhiran 63)
 
 ## Informasi Proyek
 * **Tema Proyek**: Toko Daring
@@ -15,7 +15,7 @@
 ## Identitas Mahasiswa
 * **Nama**: Awab Abdul Khodir
 * **NIM**: 25430063
-* **Kelas / Kelompok**: Basis Data (NIM Berakhiran 62)
+* **Kelas / Kelompok**: Basis Data (NIM Berakhiran 63)
 
 ## Informasi Proyek
 * **Tema Proyek**: Toko Daring
