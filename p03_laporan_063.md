@@ -61,7 +61,7 @@ Dalam pengerjaan Modul 3 ini, saya menggunakan asisten AI (Google Gemini) untuk 
 
 ## 10. Bukti Git
 *   **Tautan Repositori:** `https://github.com/awababdulkhodir-cell/basisdata-25430063`
-*   **Hash Commit Terakhir:** `MASUKKAN_HASH_COMMIT_ANDA_DI_SINI`
+*   **Hash Commit Terakhir:** `50ac0b2`
 
 ## Checklist
 - [x] Berkas wajib: `p03_erd_kopma_063` dan `p03_erd_063` (gambar + berkas sumber draw.io)
