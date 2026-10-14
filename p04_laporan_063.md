@@ -55,7 +55,7 @@ Dalam pengerjaan laporan ini, saya menggunakan Google Gemini sebagai *thought pa
 
 ## 10. Bukti Git
 *   **Tautan Repositori:** `https://github.com/awababdulkhodir-cell/basisdata-25430063`
-*   **Hash Commit Terakhir:** `MASUKKAN_HASH_COMMIT_ANDA_DI_SINI`
+*   **Hash Commit Terakhir:** `997bbb7`
 
 ## Checklist
 - [x] Berkas wajib: `p04_normalisasi_063.md` (proyek)
